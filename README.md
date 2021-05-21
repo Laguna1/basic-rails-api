@@ -6,7 +6,7 @@
 `http GET :3000/users`
 
  - POST user (new):
-`http POST localhost:3000/users/:user_id  name=Oksana email=oksana@mail age=55`
+`http POST localhost:3000/users name=Oksana email=oksana@mail age=55`
 
 - GET user (show):
 `http GET :3000/users/:user_id`
